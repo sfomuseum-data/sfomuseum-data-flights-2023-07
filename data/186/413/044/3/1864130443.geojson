@@ -1,0 +1,69 @@
+{
+  "id": 1864130443,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-07-13",
+    "date:inception_upper": "2023-07-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-07-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2023-07-13",
+    "flysfo:estimated_timestamp": 1689278880,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA2916",
+    "flysfo:gate": "",
+    "flysfo:journey": "SBA-SFO",
+    "flysfo:scheduled_timestamp": 1689274020,
+    "flysfo:timestamp": 1689278880,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527337,
+    "sfomuseum:flight_id": "20230713-A-AAL-2916",
+    "sfomuseum:flight_number": [
+      "AAL2916",
+      "AA2916"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1689350494,
+    "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1864130443
+      }
+    ],
+    "wof:id": 1864130443,
+    "wof:involves": [
+      102527513,
+      102527337,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1689350494,
+    "wof:name": "AA2916 (SBA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.427974,
+    -119.837133,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-119.837133,34.427974],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
