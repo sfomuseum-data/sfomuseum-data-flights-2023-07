@@ -2,10 +2,12 @@
   "id": 1864144325,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-14",
+    "date:cessation_upper": "2023-07-14",
     "date:inception_lower": "2023-07-14",
     "date:inception_upper": "2023-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-14",
+    "edtf:cessation": "2023-07-14T18:13:49Z",
+    "edtf:inception": "2023-07-14T16:59:13-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 2.1453445,
     "iata:airline": "OZ",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "AAR",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159283917,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:base_flight_id": "20230714-D-SIA-5711",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "HL8361",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "42489464"
+    },
     "wof:country": "US",
     "wof:created": 1689437910,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864144325,
     "wof:involves": [
+      1377564293,
       102556451,
       102527513,
       1159283917,
       1763588461,
       1159286259
     ],
-    "wof:lastmodified": 1689437910,
+    "wof:lastmodified": 1689438540,
     "wof:name": "OZ211 (SFO-ICN)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",
