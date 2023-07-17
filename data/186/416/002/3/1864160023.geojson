@@ -2,10 +2,12 @@
   "id": 1864160023,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-16",
+    "date:cessation_upper": "2023-07-16",
     "date:inception_lower": "2023-07-16",
     "date:inception_upper": "2023-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-16",
+    "edtf:cessation": "2023-07-16T14:54:00Z",
+    "edtf:inception": "2023-07-16T13:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20230716-D-AAL-7528",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N461AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "42741612"
+    },
     "wof:country": "US",
     "wof:created": 1689610927,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1864160023,
     "wof:involves": [
-      102533269,
-      102527513,
       1159283813,
       1763588147,
-      1159283849
+      1159283849,
+      1377564285,
+      102533269,
+      102527513
     ],
-    "wof:lastmodified": 1689610927,
+    "wof:lastmodified": 1689611324,
     "wof:name": "AS1043 (SFO-SEA)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

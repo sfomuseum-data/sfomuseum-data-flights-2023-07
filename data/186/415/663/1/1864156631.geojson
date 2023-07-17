@@ -2,10 +2,12 @@
   "id": 1864156631,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-16",
+    "date:cessation_upper": "2023-07-16",
     "date:inception_lower": "2023-07-16",
     "date:inception_upper": "2023-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-16",
+    "edtf:cessation": "2023-07-16T14:06:49-07:00",
+    "edtf:inception": "2023-07-16T23:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-07-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531205,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N655DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "42802648",
+      "swim:gufi": "KG78361100"
+    },
     "wof:country": "US",
     "wof:created": 1689610124,
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1864156631,
     "wof:involves": [
-      102527513,
       102531205,
       1159284261,
-      -1
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1689610124,
+    "wof:lastmodified": 1689611336,
     "wof:name": "DL8878 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

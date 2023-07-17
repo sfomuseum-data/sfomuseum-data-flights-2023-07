@@ -2,10 +2,12 @@
   "id": 1864160045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-16",
+    "date:cessation_upper": "2023-07-16",
     "date:inception_lower": "2023-07-16",
     "date:inception_upper": "2023-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-16",
+    "edtf:cessation": "2023-07-16T20:00:27Z",
+    "edtf:inception": "2023-07-16T18:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "ICE",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20230716-D-ICE-7658",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N215AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "42773348"
+    },
     "wof:country": "US",
     "wof:created": 1689610932,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1864160045,
     "wof:involves": [
+      1159284513,
+      1377564285,
       102533269,
       102527513,
       1159283813,
-      1763588137,
-      1159284513
+      1763588137
     ],
-    "wof:lastmodified": 1689610932,
+    "wof:lastmodified": 1689611324,
     "wof:name": "AS1289 (SFO-SEA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

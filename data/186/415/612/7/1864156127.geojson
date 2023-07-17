@@ -2,10 +2,12 @@
   "id": 1864156127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-16",
+    "date:cessation_upper": "2023-07-16",
     "date:inception_lower": "2023-07-16",
     "date:inception_upper": "2023-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-16",
+    "edtf:cessation": "2023-07-16T20:46:00Z",
+    "edtf:inception": "2023-07-16T14:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230716-A-QTR-2067",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N958AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "42741538"
+    },
     "wof:country": "US",
     "wof:created": 1689610008,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -90,9 +98,10 @@
       102534365,
       1159283813,
       1763588131,
-      1159286153
+      1159286153,
+      1528104577
     ],
-    "wof:lastmodified": 1689610008,
+    "wof:lastmodified": 1689611331,
     "wof:name": "AS39 (JFK-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",
