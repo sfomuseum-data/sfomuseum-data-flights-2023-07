@@ -1,0 +1,69 @@
+{
+  "id": 1864161281,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-07-16",
+    "date:inception_upper": "2023-07-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-07-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "MX",
+    "flysfo:date": "2023-07-16",
+    "flysfo:estimated_timestamp": 1689550800,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "MX572",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-BDL",
+    "flysfo:scheduled_timestamp": 1689550200,
+    "flysfo:timestamp": 1689550800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-72.687108,41.934353",
+    "geom:latitude": 39.776171500000004,
+    "geom:longitude": -97.52902549999999,
+    "iata:airline": "MX",
+    "icao:airline": "MXY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1763552131,
+    "sfomuseum:arrival_id": 102532701,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230716-D-MXY-572",
+    "sfomuseum:flight_number": [
+      "MXY572",
+      "MX572"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1689611223,
+    "wof:geomhash": "0643ebfe04300154e23bafd48af1076e",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1864161281
+      }
+    ],
+    "wof:id": 1864161281,
+    "wof:involves": [
+      102532701,
+      102527513,
+      1763552131,
+      -1
+    ],
+    "wof:lastmodified": 1689611223,
+    "wof:name": "MX572 (SFO-BDL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -72.687108,
+    41.934353
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-72.687108,41.934353]],"type":"MultiPoint"}
+}
