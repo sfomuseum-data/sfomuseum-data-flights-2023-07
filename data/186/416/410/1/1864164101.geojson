@@ -1,0 +1,69 @@
+{
+  "id": 1864164101,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-07-17",
+    "date:inception_upper": "2023-07-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-07-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "FJ",
+    "flysfo:date": "2023-07-17",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "FJ456",
+    "flysfo:gate": "",
+    "flysfo:journey": "HNL-SFO",
+    "flysfo:scheduled_timestamp": 1689613200,
+    "flysfo:timestamp": 1689613200,
+    "geom:area": 0,
+    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
+    "geom:latitude": 29.475248999999998,
+    "geom:longitude": -140.1446795,
+    "iata:airline": "FJ",
+    "icao:airline": "FJI",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283717,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102533997,
+    "sfomuseum:flight_id": "20230717-A-FJI-456",
+    "sfomuseum:flight_number": [
+      "FJI456",
+      "FJ456"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1689696655,
+    "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1864164101
+      }
+    ],
+    "wof:id": 1864164101,
+    "wof:involves": [
+      102527513,
+      102533997,
+      1159283717,
+      -1
+    ],
+    "wof:lastmodified": 1689696655,
+    "wof:name": "FJ456 (HNL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -157.918416,
+    21.332508,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
