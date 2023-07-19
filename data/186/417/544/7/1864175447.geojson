@@ -2,10 +2,12 @@
   "id": 1864175447,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-07-18",
-    "date:inception_upper": "2023-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-18",
+    "date:cessation_lower": "2023-07-19",
+    "date:cessation_upper": "2023-07-19",
+    "date:inception_lower": "2023-07-19",
+    "date:inception_upper": "2023-07-19",
+    "edtf:cessation": "2023-07-19T08:43:02Z",
+    "edtf:inception": "2023-07-19T00:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BF",
     "flysfo:date": "2023-07-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 10.0222635,
     "geom:longitude": -135.9940435,
     "iata:airline": "BF",
+    "icao:aircraft": "A359",
     "icao:airline": "FBU",
     "lbl:latitude": 37.61227,
     "lbl:longitude": -122.390079,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1377649073,
     "sfomuseum:arrival_id": 102558779,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "FHTRE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43120919"
+    },
     "wof:country": "US",
     "wof:created": 1689783926,
     "wof:geomhash": "f971d3f872ee602b2fa6051cf4be0e69",
@@ -84,9 +97,10 @@
       102558779,
       102527513,
       1377649073,
-      1763588431
+      1763588431,
+      1377564293
     ],
-    "wof:lastmodified": 1689783926,
+    "wof:lastmodified": 1689784147,
     "wof:name": "BF5712 (SFO-PPT)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

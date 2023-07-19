@@ -2,10 +2,12 @@
   "id": 1864169999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-18",
+    "date:cessation_upper": "2023-07-18",
     "date:inception_lower": "2023-07-18",
     "date:inception_upper": "2023-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-18",
+    "edtf:cessation": "2023-07-18T23:04:00Z",
+    "edtf:inception": "2023-07-18T21:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230718-A-ANZ-4823",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43020077",
+      "swim:gufi": "KS71599300"
+    },
     "wof:country": "US",
     "wof:created": 1689782623,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1864169999,
     "wof:involves": [
+      1763588155,
+      1159283697,
+      1528104575,
       102527513,
       102555307,
-      1159283597,
-      1763588155,
-      1159283697
+      1159283597
     ],
-    "wof:lastmodified": 1689782623,
+    "wof:lastmodified": 1689784138,
     "wof:name": "AC566 (YVR-SFO)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",
