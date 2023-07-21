@@ -2,10 +2,12 @@
   "id": 1864188553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-20",
+    "date:cessation_upper": "2023-07-20",
     "date:inception_lower": "2023-07-20",
     "date:inception_upper": "2023-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-20",
+    "edtf:cessation": "2023-07-20T13:34:35Z",
+    "edtf:inception": "2023-07-20T09:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:date": "2023-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 49.395798,
     "geom:longitude": -136.169672,
     "iata:airline": "OZ",
+    "icao:aircraft": "B744",
     "icao:airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289915,
     "sfomuseum:airline_id": 1159283917,
     "sfomuseum:arrival_id": 102531979,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "HL7415",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "43306918"
+    },
     "wof:country": "US",
     "wof:created": 1689956350,
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1864188553,
     "wof:involves": [
-      102531979,
       102527513,
       1159283917,
-      -1
+      1159289915,
+      102531979
     ],
-    "wof:lastmodified": 1689956350,
+    "wof:lastmodified": 1689957006,
     "wof:name": "OZ283 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

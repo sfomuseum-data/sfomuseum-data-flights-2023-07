@@ -2,10 +2,12 @@
   "id": 1864188345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-20",
+    "date:cessation_upper": "2023-07-20",
     "date:inception_lower": "2023-07-20",
     "date:inception_upper": "2023-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-20",
+    "edtf:cessation": "2023-07-20T07:44:48-07:00",
+    "edtf:inception": "2023-07-20T19:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "WJA",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230720-A-AFR-3756",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "CFIBW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43250780"
+    },
     "wof:country": "US",
     "wof:created": 1689956302,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864188345,
     "wof:involves": [
-      102527513,
       102555307,
       1159285523,
       1763588267,
-      1159283627
+      1159283627,
+      1159289869,
+      102527513
     ],
-    "wof:lastmodified": 1689956302,
+    "wof:lastmodified": 1689957006,
     "wof:name": "WS1774 (YVR-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1864186709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-20",
+    "date:cessation_upper": "2023-07-20",
     "date:inception_lower": "2023-07-20",
     "date:inception_upper": "2023-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-20",
+    "edtf:cessation": "2023-07-20T10:51:04-07:00",
+    "edtf:inception": "2023-07-20T22:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2023-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N220BZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43270693"
+    },
     "wof:country": "US",
     "wof:created": 1689955915,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1864186709,
     "wof:involves": [
-      102527513,
-      102527209,
       1763552131,
-      1763588147
+      1763588147,
+      1813375783,
+      102527513,
+      102527209
     ],
-    "wof:lastmodified": 1689955915,
+    "wof:lastmodified": 1689957011,
     "wof:name": "MX121 (LAS-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",
