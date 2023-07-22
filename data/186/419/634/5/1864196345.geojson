@@ -2,10 +2,12 @@
   "id": 1864196345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-22",
+    "date:cessation_upper": "2023-07-22",
     "date:inception_lower": "2023-07-21",
     "date:inception_upper": "2023-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-21",
+    "edtf:cessation": "2023-07-22T01:40:05Z",
+    "edtf:inception": "2023-07-21T21:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20230721-D-VIR-7522",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N875AM",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -90,9 +98,10 @@
       102527513,
       1159283539,
       1763588407,
-      1159285483
+      1159285483,
+      1159289871
     ],
-    "wof:lastmodified": 1690042911,
+    "wof:lastmodified": 1690043434,
     "wof:name": "AM669 (SFO-MEX)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

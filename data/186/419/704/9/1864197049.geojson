@@ -2,10 +2,12 @@
   "id": 1864197049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-22",
+    "date:cessation_upper": "2023-07-22",
     "date:inception_lower": "2023-07-21",
     "date:inception_upper": "2023-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-21",
+    "edtf:cessation": "2023-07-22T01:07:03Z",
+    "edtf:inception": "2023-07-21T23:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43411899"
+    },
     "wof:country": "US",
     "wof:created": 1690043074,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -92,7 +97,7 @@
       1763588135,
       1159283849
     ],
-    "wof:lastmodified": 1690043074,
+    "wof:lastmodified": 1690043435,
     "wof:name": "AS737 (SFO-LAS)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",
