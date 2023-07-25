@@ -2,10 +2,12 @@
   "id": 1864224829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-25",
+    "date:cessation_upper": "2023-07-25",
     "date:inception_lower": "2023-07-24",
     "date:inception_upper": "2023-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-24",
+    "edtf:cessation": "2023-07-25T03:39:00Z",
+    "edtf:inception": "2023-07-24T02:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20230724-D-VIR-4543",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N846DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43647029",
+      "swim:gufi": "KO05162300"
+    },
     "wof:country": "US",
     "wof:created": 1690302344,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1864224829,
     "wof:involves": [
+      1377564285,
       102527363,
       102527513,
       1159284261,
       1763588245,
       1159285483
     ],
-    "wof:lastmodified": 1690302344,
+    "wof:lastmodified": 1690302665,
     "wof:name": "DL1093 (SFO-SLC)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",
