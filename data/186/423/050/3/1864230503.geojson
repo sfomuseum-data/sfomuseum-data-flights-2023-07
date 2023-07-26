@@ -2,10 +2,12 @@
   "id": 1864230503,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-25",
+    "date:cessation_upper": "2023-07-25",
     "date:inception_lower": "2023-07-25",
     "date:inception_upper": "2023-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-25",
+    "edtf:cessation": "2023-07-25T04:00:03Z",
+    "edtf:inception": "2023-07-25T03:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43753980"
+    },
     "wof:country": "US",
     "wof:created": 1690388082,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,7 +97,7 @@
       1763588337,
       1159283697
     ],
-    "wof:lastmodified": 1690388082,
+    "wof:lastmodified": 1690388965,
     "wof:name": "UA1488 (LAX-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

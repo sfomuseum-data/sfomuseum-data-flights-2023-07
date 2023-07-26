@@ -2,10 +2,12 @@
   "id": 1864232615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-26",
+    "date:cessation_upper": "2023-07-26",
     "date:inception_lower": "2023-07-25",
     "date:inception_upper": "2023-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-25",
+    "edtf:cessation": "2023-07-26T04:53:40Z",
+    "edtf:inception": "2023-07-25T23:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43835875"
+    },
     "wof:country": "US",
     "wof:created": 1690388574,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -92,7 +97,7 @@
       1763588143,
       1159285043
     ],
-    "wof:lastmodified": 1690388574,
+    "wof:lastmodified": 1690388977,
     "wof:name": "AS20 (SFO-JFK)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

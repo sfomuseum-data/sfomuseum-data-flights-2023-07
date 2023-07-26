@@ -2,10 +2,12 @@
   "id": 1864233071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-25",
+    "date:cessation_upper": "2023-07-25",
     "date:inception_lower": "2023-07-25",
     "date:inception_upper": "2023-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-25",
+    "edtf:cessation": "2023-07-25T19:34:00Z",
+    "edtf:inception": "2023-07-25T01:21:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20230725-D-AMX-3800",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N801DZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43796176",
+      "swim:gufi": "KO51362300"
+    },
     "wof:country": "US",
     "wof:created": 1690388680,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -90,9 +104,10 @@
       102527513,
       1159284261,
       1763588247,
-      1159283539
+      1159283539,
+      1377564285
     ],
-    "wof:lastmodified": 1690388680,
+    "wof:lastmodified": 1690388980,
     "wof:name": "DL437 (SFO-ATL)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1864229501,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-07-25",
-    "date:inception_upper": "2023-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-25",
+    "date:cessation_lower": "2023-07-25",
+    "date:cessation_upper": "2023-07-25",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2023-07-25T10:55:20-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:date": "2023-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.4570045,
     "geom:longitude": -60.1448105,
     "iata:airline": "IB",
+    "icao:aircraft": "A332",
     "icao:airline": "IBE",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1159289421,
     "sfomuseum:airline_id": 1159284511,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102545733,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "ECNEN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -84,9 +93,10 @@
       102527513,
       102545733,
       1159284511,
-      1763588419
+      1763588419,
+      1159289421
     ],
-    "wof:lastmodified": 1690387848,
+    "wof:lastmodified": 1690388974,
     "wof:name": "IB2621 (BCN-SFO)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

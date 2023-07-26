@@ -2,10 +2,12 @@
   "id": 1864227405,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-07-25",
-    "date:inception_upper": "2023-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-25",
+    "date:cessation_lower": "2023-07-25",
+    "date:cessation_upper": "2023-07-25",
+    "date:inception_lower": "2023-07-26",
+    "date:inception_upper": "2023-07-26",
+    "edtf:cessation": "2023-07-25T13:05:54-07:00",
+    "edtf:inception": "2023-07-26T01:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230725-A-BAW-6918",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N986NN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KA00986400"
+    },
     "wof:country": "US",
     "wof:created": 1690387327,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1864227405,
     "wof:involves": [
+      1159284021,
+      1159289871,
       102527513,
       102526751,
       1159283849,
-      1763588207,
-      1159284021
+      1763588207
     ],
-    "wof:lastmodified": 1690387327,
+    "wof:lastmodified": 1690388963,
     "wof:name": "AA2408 (PHX-SFO)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",
