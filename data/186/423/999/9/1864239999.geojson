@@ -2,10 +2,12 @@
   "id": 1864239999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-27",
+    "date:cessation_upper": "2023-07-27",
     "date:inception_lower": "2023-07-26",
     "date:inception_upper": "2023-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-26",
+    "edtf:cessation": "2023-07-27T01:12:00Z",
+    "edtf:inception": "2023-07-26T07:07:34-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20230726-D-KLM-5251",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N556NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43949991",
+      "swim:gufi": "KO71822400"
+    },
     "wof:country": "US",
     "wof:created": 1690475068,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864239999,
     "wof:involves": [
+      1159284613,
+      1159289939,
       102526927,
       102527513,
       1159284261,
-      1763588239,
-      1159284613
+      1763588239
     ],
-    "wof:lastmodified": 1690475068,
+    "wof:lastmodified": 1690475380,
     "wof:name": "DL324 (SFO-ATL)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

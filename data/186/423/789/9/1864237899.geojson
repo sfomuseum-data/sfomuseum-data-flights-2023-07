@@ -2,10 +2,12 @@
   "id": 1864237899,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-26",
+    "date:cessation_upper": "2023-07-26",
     "date:inception_lower": "2023-07-26",
     "date:inception_upper": "2023-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-26",
+    "edtf:cessation": "2023-07-26T02:12:13-07:00",
+    "edtf:inception": "2023-07-26T12:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-07-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37540",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "43965691",
+      "swim:gufi": "KG31734400"
+    },
     "wof:country": "US",
     "wof:created": 1690474581,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1864237899,
     "wof:involves": [
+      1528104577,
       102527513,
       102533631,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1690474581,
+    "wof:lastmodified": 1690475368,
     "wof:name": "UA8133 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

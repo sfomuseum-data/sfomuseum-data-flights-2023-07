@@ -2,10 +2,12 @@
   "id": 1864237641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-26",
+    "date:cessation_upper": "2023-07-26",
     "date:inception_lower": "2023-07-26",
     "date:inception_upper": "2023-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-26",
+    "edtf:cessation": "2023-07-26T12:37:02Z",
+    "edtf:inception": "2023-07-26T03:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-07-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.5860375,
     "geom:longitude": 8.702347499999995,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541591,
@@ -48,6 +52,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43865989",
+      "swim:gufi": "KO40077400"
+    },
     "wof:country": "US",
     "wof:created": 1690474519,
     "wof:geomhash": "99c2bdbe61e95eb26a51b43b0c172358",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1864237641,
     "wof:involves": [
+      1159293215,
       102527513,
       102541591,
       1159285413,
       1763588437
     ],
-    "wof:lastmodified": 1690474519,
+    "wof:lastmodified": 1690475378,
     "wof:name": "UA3044 (HND-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

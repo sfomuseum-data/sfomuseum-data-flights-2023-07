@@ -2,10 +2,12 @@
   "id": 1864240049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-27",
+    "date:cessation_upper": "2023-07-27",
     "date:inception_lower": "2023-07-26",
     "date:inception_upper": "2023-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-26",
+    "edtf:cessation": "2023-07-27T02:27:00Z",
+    "edtf:inception": "2023-07-26T22:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20230726-D-LAN-6576",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "43959448",
+      "swim:gufi": "KO76622400"
+    },
     "wof:country": "US",
     "wof:created": 1690475079,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1864240049,
     "wof:involves": [
+      1159285641,
+      1377564285,
       102526927,
       102527513,
       1159284261,
-      1763588251,
-      1159285641
+      1763588251
     ],
-    "wof:lastmodified": 1690475079,
+    "wof:lastmodified": 1690475357,
     "wof:name": "DL778 (SFO-ATL)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
