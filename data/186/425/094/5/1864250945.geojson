@@ -2,10 +2,12 @@
   "id": 1864250945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-29",
+    "date:cessation_upper": "2023-07-29",
     "date:inception_lower": "2023-07-28",
     "date:inception_upper": "2023-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-28",
+    "edtf:cessation": "2023-07-29T01:22:00Z",
+    "edtf:inception": "2023-07-28T20:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:date": "2023-07-28",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44202363"
+    },
     "wof:country": "US",
     "wof:created": 1690647044,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -86,7 +91,7 @@
       1159284489,
       1763588401
     ],
-    "wof:lastmodified": 1690647044,
+    "wof:lastmodified": 1690648185,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

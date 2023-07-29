@@ -2,10 +2,12 @@
   "id": 1864253065,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-29",
+    "date:cessation_upper": "2023-07-29",
     "date:inception_lower": "2023-07-28",
     "date:inception_upper": "2023-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-28",
+    "edtf:cessation": "2023-07-29T10:45:59Z",
+    "edtf:inception": "2023-07-28T23:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:date": "2023-07-28",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "44329128"
+    },
     "wof:country": "US",
     "wof:created": 1690647533,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -50,7 +55,7 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1690647533,
+    "wof:lastmodified": 1690648189,
     "wof:name": "OZ285 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
