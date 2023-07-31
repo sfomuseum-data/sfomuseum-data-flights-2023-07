@@ -2,10 +2,12 @@
   "id": 1864265681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-30",
+    "date:cessation_upper": "2023-07-30",
     "date:inception_lower": "2023-07-30",
     "date:inception_upper": "2023-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-30",
+    "edtf:cessation": "2023-07-30T23:47:00Z",
+    "edtf:inception": "2023-07-30T20:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230730-A-DLH-9178",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N75854",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44445070",
+      "swim:gufi": "KG56965100"
+    },
     "wof:country": "US",
     "wof:created": 1690820115,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864265681,
     "wof:involves": [
-      102527513,
       102533631,
       1159285413,
       1763588311,
-      1159286015
+      1159286015,
+      1159289945,
+      102527513
     ],
-    "wof:lastmodified": 1690820115,
+    "wof:lastmodified": 1690821029,
     "wof:name": "UA1878 (ORD-SFO)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

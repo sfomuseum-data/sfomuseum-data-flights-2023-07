@@ -2,10 +2,12 @@
   "id": 1864265789,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-07-30",
-    "date:inception_upper": "2023-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-30",
+    "date:cessation_lower": "2023-07-31",
+    "date:cessation_upper": "2023-07-31",
+    "date:inception_lower": "2023-07-31",
+    "date:inception_upper": "2023-07-31",
+    "edtf:cessation": "2023-07-31T05:38:00Z",
+    "edtf:inception": "2023-07-31T04:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230730-A-AAR-6321",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N813UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44366985",
+      "swim:gufi": "KS80799100"
+    },
     "wof:country": "US",
     "wof:created": 1690820139,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -86,13 +95,14 @@
     ],
     "wof:id": 1864265789,
     "wof:involves": [
-      102527513,
       102532251,
       1159285413,
       1763588283,
-      1159283917
+      1159283917,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1690820139,
+    "wof:lastmodified": 1690821018,
     "wof:name": "UA2482 (PDX-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

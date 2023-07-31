@@ -2,10 +2,12 @@
   "id": 1864263805,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-30",
+    "date:cessation_upper": "2023-07-30",
     "date:inception_lower": "2023-07-30",
     "date:inception_upper": "2023-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-30",
+    "edtf:cessation": "2023-07-30T13:49:06Z",
+    "edtf:inception": "2023-07-30T09:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44386736"
+    },
     "wof:country": "US",
     "wof:created": 1690819674,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -92,7 +97,7 @@
       1763588139,
       1159283849
     ],
-    "wof:lastmodified": 1690819674,
+    "wof:lastmodified": 1690821026,
     "wof:name": "AS871 (HNL-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
