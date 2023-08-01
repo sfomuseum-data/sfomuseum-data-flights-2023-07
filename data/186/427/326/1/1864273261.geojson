@@ -2,10 +2,12 @@
   "id": 1864273261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-31",
+    "date:cessation_upper": "2023-07-31",
     "date:inception_lower": "2023-07-31",
     "date:inception_upper": "2023-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-31",
+    "edtf:cessation": "2023-07-31T08:25:00Z",
+    "edtf:inception": "2023-07-31T06:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-07-31",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44500813"
+    },
     "wof:country": "US",
     "wof:created": 1690906472,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1690906472,
+    "wof:lastmodified": 1690907502,
     "wof:name": "WN199 (PHX-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

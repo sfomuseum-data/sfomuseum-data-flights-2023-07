@@ -2,10 +2,12 @@
   "id": 1864273601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-07-31",
+    "date:cessation_upper": "2023-07-31",
     "date:inception_lower": "2023-07-31",
     "date:inception_upper": "2023-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-07-31",
+    "edtf:cessation": "2023-07-31T02:12:54-07:00",
+    "edtf:inception": "2023-07-31T14:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230731-A-ANZ-9488",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N878UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44532777",
+      "swim:gufi": "KU44184200"
+    },
     "wof:country": "US",
     "wof:created": 1690906549,
     "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864273601,
     "wof:involves": [
+      1159289407,
       102527513,
       102534217,
       1159285413,
       1763588357,
       1159283697
     ],
-    "wof:lastmodified": 1690906549,
+    "wof:lastmodified": 1690907503,
     "wof:name": "UA1705 (JAC-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",
