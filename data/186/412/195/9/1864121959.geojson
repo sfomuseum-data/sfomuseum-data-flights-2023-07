@@ -40,6 +40,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1864121959,
         "flight_id": 1864121959
       }
     ],
@@ -50,11 +51,13 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1689264125,
+    "wof:lastmodified": 1717045070,
     "wof:name": "OZ286 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

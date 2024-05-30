@@ -49,6 +49,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1864264267,
         "flight_id": 1864264267
       }
     ],
@@ -59,11 +60,13 @@
       102526751,
       1159284261
     ],
-    "wof:lastmodified": 1690821027,
+    "wof:lastmodified": 1717045085,
     "wof:name": "DL8876 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

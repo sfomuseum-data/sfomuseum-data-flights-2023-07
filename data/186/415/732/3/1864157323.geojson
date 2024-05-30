@@ -53,6 +53,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1864157323,
         "flight_id": 1864157323
       }
     ],
@@ -63,11 +64,13 @@
       1763552131,
       1813375783
     ],
-    "wof:lastmodified": 1689611338,
+    "wof:lastmodified": 1717045081,
     "wof:name": "MX121 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "99c2bdbe61e95eb26a51b43b0c172358",
     "wof:hierarchy": [
       {
+        "custom_id": 1864228031,
         "flight_id": 1864228031
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283875
     ],
-    "wof:lastmodified": 1690387497,
+    "wof:lastmodified": 1717045082,
     "wof:name": "NH7010 (HND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

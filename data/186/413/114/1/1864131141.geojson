@@ -45,6 +45,7 @@
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
     "wof:hierarchy": [
       {
+        "custom_id": 1864131141,
         "flight_id": 1864131141
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1689350704,
+    "wof:lastmodified": 1717045075,
     "wof:name": "NZ2770 (DCA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

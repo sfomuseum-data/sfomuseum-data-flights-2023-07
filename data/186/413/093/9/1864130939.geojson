@@ -55,6 +55,7 @@
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
     "wof:hierarchy": [
       {
+        "custom_id": 1864130939,
         "flight_id": 1864130939
       }
     ],
@@ -66,11 +67,13 @@
       102554351,
       1159283597
     ],
-    "wof:lastmodified": 1689352217,
+    "wof:lastmodified": 1717045075,
     "wof:name": "AC765 (YUL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

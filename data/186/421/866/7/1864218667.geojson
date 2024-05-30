@@ -52,6 +52,7 @@
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
     "wof:hierarchy": [
       {
+        "custom_id": 1864218667,
         "flight_id": 1864218667
       }
     ],
@@ -62,11 +63,13 @@
       1159285227,
       1159289871
     ],
-    "wof:lastmodified": 1690216181,
+    "wof:lastmodified": 1717045082,
     "wof:name": "SY8773 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

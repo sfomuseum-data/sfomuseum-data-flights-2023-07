@@ -53,6 +53,7 @@
     "wof:geomhash": "02eb21027b428b31b3a49fca7e3fb60f",
     "wof:hierarchy": [
       {
+        "custom_id": 1864268243,
         "flight_id": 1864268243
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1690821023,
+    "wof:lastmodified": 1717045088,
     "wof:name": "DL8878 (SFO-BFI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

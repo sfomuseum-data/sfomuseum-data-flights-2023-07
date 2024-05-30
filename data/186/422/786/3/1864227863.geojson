@@ -59,6 +59,7 @@
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
+        "custom_id": 1864227863,
         "flight_id": 1864227863
       }
     ],
@@ -70,11 +71,13 @@
       1159283597,
       1159285749
     ],
-    "wof:lastmodified": 1690388965,
+    "wof:lastmodified": 1717045082,
     "wof:name": "AC570 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

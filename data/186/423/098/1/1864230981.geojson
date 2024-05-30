@@ -53,6 +53,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1864230981,
         "flight_id": 1864230981
       }
     ],
@@ -63,11 +64,13 @@
       102533269,
       1159285413
     ],
-    "wof:lastmodified": 1690388969,
+    "wof:lastmodified": 1717045081,
     "wof:name": "UA8213 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1864157717,
         "flight_id": 1864157717
       }
     ],
@@ -63,11 +64,13 @@
       102526751,
       1159285591
     ],
-    "wof:lastmodified": 1689611338,
+    "wof:lastmodified": 1717045081,
     "wof:name": "WN199 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "4d7458fcd2bb2c2db9950abb8dd848d3",
     "wof:hierarchy": [
       {
+        "custom_id": 1864182191,
         "flight_id": 1864182191
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1689870198,
+    "wof:lastmodified": 1717045078,
     "wof:name": "AS9741 (SFO-PAE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

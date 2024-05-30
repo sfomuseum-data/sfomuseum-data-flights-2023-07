@@ -53,6 +53,7 @@
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
     "wof:hierarchy": [
       {
+        "custom_id": 1864160585,
         "flight_id": 1864160585
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1689611328,
+    "wof:lastmodified": 1717045076,
     "wof:name": "DL8838 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

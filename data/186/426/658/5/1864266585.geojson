@@ -40,6 +40,7 @@
     "wof:geomhash": "771a1ee02d87be5df9c09821266d14fd",
     "wof:hierarchy": [
       {
+        "custom_id": 1864266585,
         "flight_id": 1864266585
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1690820325,
+    "wof:lastmodified": 1717045087,
     "wof:name": "AA2935 (SFO-HDN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-07",
     "wof:superseded_by": [],
     "wof:supersedes": []
